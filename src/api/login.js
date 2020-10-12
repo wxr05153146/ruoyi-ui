@@ -37,4 +37,9 @@ export function getCodeImg() {
     url: '/captchaImage',
     method: 'get'
   })
+  export function sdsdasdsdasdasdasdas() {
+    return request({
+      url: '/captchaImage',
+      method: 'get'
+    })
 }
